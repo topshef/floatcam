@@ -86,3 +86,7 @@ FloatCam currently expects FFmpeg to be available on PATH.
 `v0.1-working` represents the first known-good Python implementation tested with the Mini DV camera described above.
 
 Future work includes packaging FloatCam as a standalone Windows executable and improving camera-device selection.
+
+## Third-party software
+
+Portable FloatCam builds bundle FFmpeg. See THIRD-PARTY-NOTICES.md for licensing and attribution information.
